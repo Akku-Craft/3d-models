@@ -16,6 +16,7 @@ The case is designed to protect the electronics (BMS & current sensor) while pro
 Case/
 └── 3.0/
     └── Modul 3.0.stl  # Main housing
+└── 4.0/
 
 ```
 
