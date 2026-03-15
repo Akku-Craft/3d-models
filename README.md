@@ -1,4 +1,4 @@
-# Akku-Craft Case (3D Print)
+# Akku-Craft 3D Models
 
 This repository contains all necessary STL files and documentation for the 3D-printed housing of the Akku-Craft project. The design is modular and optimized for FDM 3D printing.
 
@@ -7,18 +7,6 @@ This repository contains all necessary STL files and documentation for the 3D-pr
 The case is designed to protect the electronics (BMS & current sensor) while providing necessary cutouts for connectors, wiring, and ventilation.
 
 ![Case Preview](preview_image.png)
-
-## Project Structure
-
-
-```
-
-Case/
-└── 3.0/
-    └── Modul 3.0.stl  # Main housing
-└── 4.0/
-
-```
 
 ## License
 
