@@ -6,7 +6,7 @@ This repository contains all necessary STL files and documentation for the 3D-pr
 
 The case is designed to protect the electronics (BMS & current sensor) while providing necessary cutouts for connectors, wiring, and ventilation.
 
-![Case Preview](preview_image.png)
+![Case Preview](https://akku-craft.usbverkehrtherum.de/wiki/3d-model.png)
 
 ## License
 
